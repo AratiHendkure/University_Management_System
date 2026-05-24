@@ -1,0 +1,35 @@
+{
+  "name": "university_management_system",
+  "version": "1.0.0",
+  "description": "this is basic university management system ",
+  "keywords": [
+    "MERN",
+    "Express.js",
+    "MongoDB",
+    "DataModeling",
+    "University"
+  ],
+  "homepage": "https://github.com/AratiHendkure/University_Management_System#readme",
+  "bugs": {
+    "url": "https://github.com/AratiHendkure/University_Management_System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AratiHendkure/University_Management_System.git"
+  },
+  "license": "ISC",
+  "author": "Arati Hendkure",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
